@@ -1,3 +1,4 @@
+"use client";
 import { useAccount, useConnect, useSignTypedData } from 'wagmi';
 import { InjectedConnector } from 'wagmi/connectors/injected';
 import { useState } from 'react';
